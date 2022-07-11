@@ -20,7 +20,7 @@ function displaySlides(n) {
 
 
 
-// setInterval(() => {
-//     var n=1
-//     nextSlide(n++)
-// }, 4000);
+setInterval(() => {
+    var n=1
+    nextSlide(n++)
+}, 4000);
